@@ -1,0 +1,5 @@
+C:\Users\USUARIO\Documents\Projects\IMC\IndiceDeMasaCorporalC#\obj\x86\Debug\IndiceDeMasaCorporalC#.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Projects\IMC\IndiceDeMasaCorporalC#\bin\Debug\IndiceDeMasaCorporalC#.exe
+C:\Users\USUARIO\Documents\Projects\IMC\IndiceDeMasaCorporalC#\bin\Debug\IndiceDeMasaCorporalC#.pdb
+C:\Users\USUARIO\Documents\Projects\IMC\IndiceDeMasaCorporalC#\obj\x86\Debug\IndiceDeMasaCorporalC#.exe
+C:\Users\USUARIO\Documents\Projects\IMC\IndiceDeMasaCorporalC#\obj\x86\Debug\IndiceDeMasaCorporalC#.pdb
