@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Documents\SharpDevelop Projects\IndiceMasaCorporalApp\IndiceMasaCorporalApp\bin\Debug\IndiceMasaCorporalApp.exe
+C:\Users\USUARIO\Documents\SharpDevelop Projects\IndiceMasaCorporalApp\IndiceMasaCorporalApp\bin\Debug\IndiceMasaCorporalApp.pdb
+C:\Users\USUARIO\Documents\SharpDevelop Projects\IndiceMasaCorporalApp\IndiceMasaCorporalApp\obj\Debug\IndiceMasaCorporalApp.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\SharpDevelop Projects\IndiceMasaCorporalApp\IndiceMasaCorporalApp\obj\Debug\IndiceMasaCorporalApp.IMC.resources
+C:\Users\USUARIO\Documents\SharpDevelop Projects\IndiceMasaCorporalApp\IndiceMasaCorporalApp\obj\Debug\IndiceMasaCorporalApp.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\SharpDevelop Projects\IndiceMasaCorporalApp\IndiceMasaCorporalApp\obj\Debug\IndiceMasaCorporalApp.exe
+C:\Users\USUARIO\Documents\SharpDevelop Projects\IndiceMasaCorporalApp\IndiceMasaCorporalApp\obj\Debug\IndiceMasaCorporalApp.pdb

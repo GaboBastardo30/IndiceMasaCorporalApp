@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Documents\SharpDevelop Projects\IndiceMasaCorporalApp\IndiceMasaCorporalApp\obj\Debug\AprendiendoWindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\SharpDevelop Projects\IndiceMasaCorporalApp\IndiceMasaCorporalApp\obj\Debug\IndiceMasaCorporalApp.Prueba.resources
+C:\Users\USUARIO\Documents\SharpDevelop Projects\IndiceMasaCorporalApp\IndiceMasaCorporalApp\obj\Debug\AprendiendoWindowsForm.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\SharpDevelop Projects\IndiceMasaCorporalApp\IndiceMasaCorporalApp\bin\Debug\AprendiendoWindowsForm.exe
+C:\Users\USUARIO\Documents\SharpDevelop Projects\IndiceMasaCorporalApp\IndiceMasaCorporalApp\bin\Debug\AprendiendoWindowsForm.pdb
+C:\Users\USUARIO\Documents\SharpDevelop Projects\IndiceMasaCorporalApp\IndiceMasaCorporalApp\obj\Debug\AprendiendoWindowsForm.exe
+C:\Users\USUARIO\Documents\SharpDevelop Projects\IndiceMasaCorporalApp\IndiceMasaCorporalApp\obj\Debug\AprendiendoWindowsForm.pdb
